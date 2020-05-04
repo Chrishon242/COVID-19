@@ -614,10 +614,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 97d995d2-9722-46a8-8123-41e105d4da1b
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: COVID-19
+  organizationId: chrishonmusgrove32
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
